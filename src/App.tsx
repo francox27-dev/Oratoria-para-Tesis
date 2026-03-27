@@ -147,7 +147,7 @@ function StartScreen({ onStart }: { onStart: () => void, key?: string }) {
         ¿Estás listo para conquistar al jurado de tu tesis en Cusco?
       </h1>
       <p className="text-lg md:text-xl text-slate-600 mb-10 max-w-xl mx-auto leading-relaxed">
-        Toma este diagnóstico gratuito de 2 minutos y descubre tu <strong className="text-[var(--color-primary-900)]">Puntuación de Confianza Oratoria</strong>. Identifica tus puntos ciegos antes del gran día.
+        Toma este diagnóstico gratuito de 2 minutos y descubre tu <strong className="text-[var(--color-primary-900)]">Nivel de Oratoria para tu Sustentación</strong>. Identifica tus puntos ciegos antes del gran día.
       </p>
       <button
         onClick={onStart}
